@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasLowyy
-- 👀 I’m interested in  app dev,  data science and solutions architect
+- 👀 I’m interested in  web dev, app dev, web3 and data science
 - 🌱 I’m currently learning to compress full stack dev into 4 months
-- 💞️ I’m looking to collaborate on startup projects, intern, shadowing, partner
+- 💞️ I’m looking to work in startups, remote works
 - 📫 How to reach me - lucas-low@outlook.com
 
 <!---
